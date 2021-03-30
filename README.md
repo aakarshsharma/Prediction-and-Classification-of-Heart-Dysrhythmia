@@ -1,2 +1,2 @@
-# Cardiac Arrhythmias Prediction
-Prediction and classification of cardiac arrhythmia using machine learning 
+# Heart Dysrhythmia Prediction
+Prediction and classification of Heart Dysrhythmia using machine learning 
